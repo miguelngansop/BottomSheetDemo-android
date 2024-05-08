@@ -10,7 +10,7 @@ To run this application on your development environment, follow these steps:
    Clone the project from your source or download the necessary files.
 
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/miguelngansop/BottomSheetDemo-android.git
 2. **Open the Project in Android Studio**:
   - Launch Android Studio.
   - Select "Open" or "Open an existing project".
